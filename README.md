@@ -4,3 +4,6 @@
 - 🌱 I’m currently learning git and Unreal Engine 5
 - 👯 I’m looking to collaborate on new exciting projects related to videogames and multimedia art
 - 📫 How to reach me: you can find me on [LinkedIn](https://www.linkedin.com/in/agustin-castillo-abad/) or just send me an email!
+
+
+Buenos Aires, Argentina, 2024
